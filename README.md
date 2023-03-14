@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=codeswarm&theme=buefy" />
 </a>
 <a href="https://github.com/BakeALoaf/Rent_a_ship">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=Rent_a_shi&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=Rent_a_ship&theme=buefy" />
 </a>
 
 <h2 align="left">Connect with me:</h2>
