@@ -17,4 +17,12 @@
 
 <h2>Repositories</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=ONESTREAMER)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=gONESTREAMERs&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=PORTFOLIO&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=codeswarm&theme=buefy" />
+</a>
