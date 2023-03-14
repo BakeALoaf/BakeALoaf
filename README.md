@@ -17,7 +17,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=BakeALoaf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakeALoaf&layout=compact&theme=buefy&hide_border=true" />
 | ------------- | ------------- |
 
-<h2>Repositories</h2>
+<h2>Top Repositories</h2>
 
 <a href="https://github.com/BakeALoaf/ONESTREAMER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=ONESTREAMER&theme=buefy" />
@@ -27,6 +27,9 @@
 </a>
 <a href="https://github.com/BakeALoaf/codeswarm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=codeswarm&theme=buefy" />
+</a>
+<a href="https://github.com/BakeALoaf/Rent_a_ship">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=Rent_a_shi&theme=buefy" />
 </a>
 
 <h2 align="left">Connect with me:</h2>
