@@ -10,6 +10,7 @@
 
 <p align="left"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 
+<h2>Stats</h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakeALoaf&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakeALoaf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
