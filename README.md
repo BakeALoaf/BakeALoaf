@@ -31,5 +31,5 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/james-barker-6706761ab/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-xing-logo-icon-2447-thumb.png" alt="barker" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/james-barker-6706761ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barker" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/james-barker-6706761ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barker" height="30" width="40" /></a> <a href="https://www.xing.com/profile/James_Barker6/cv" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-xing-logo-icon-2447-thumb.png" alt="barker" height="30" width="40" /></a>
 </p>
