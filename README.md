@@ -29,3 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BakeALoaf&repo=codeswarm&theme=buefy" />
 </a>
 
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/james-barker-6706761ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnsel" height="30" width="40" /></a>
+</p>
